@@ -1,2 +1,3 @@
 giant_data/
-solutions/
+solutions/*
+!solutions/meta_analysis_Practical_ANSWERS.html
